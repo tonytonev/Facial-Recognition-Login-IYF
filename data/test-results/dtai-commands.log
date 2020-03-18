@@ -1,0 +1,9 @@
+0.887514114379883 "../client/iyf.exe" -t test test images/ATT/s07/1.pgm images/ATT/s07/2.pgm images/ATT/s07/3.pgm images/ATT/s07/4.pgm images/ATT/s07/5.pgm
+1.0132999420166 1	"../client/iyf.exe" -l test test images/ATT/s07/10.pgm
+1.0235710144043 1	"../client/iyf.exe" -l test test images/ATT/s07/7.pgm
+1.04477214813232 1	"../client/iyf.exe" -l test test images/ATT/s07/8.pgm
+1.42806696891785 0	"../client/iyf.exe" -l test test images/ATT/s07/6.pgm
+1.41802787780762 0	"../client/iyf.exe" -l test test images/ATT/s07/9.pgm
+2.00327014923096 "../client/iyf.exe" -t test test images/ATT/s07/1.pgm images/ATT/s07/2.pgm images/ATT/s07/3.pgm images/ATT/s07/4.pgm images/ATT/s07/6.pgm
+0.702549934387207 1	"../client/iyf.exe" -l test test images/ATT/s07/8.pgm
+1.05510592460632 0	"../client/iyf.exe" -l test test images/ATT/s07/10.pgm

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+./iyf-ll $1 $2 $3 | grep Result > results.tmp
+
+good=`grep 0 < results.tmp | wc -l`
+total=`cat results.tmp | wc -l`
+
+rm results.tmp
+
+echo Accuracy: $good/$total

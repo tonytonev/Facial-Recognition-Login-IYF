@@ -1,0 +1,3 @@
+#!/bin/bash
+
+for i in $1/*; do echo ./iyf -p \"$i\" \"$2/`echo $i | sed 's_.*/__' | sed 's_[.].*__'`.pgm\" | sh ; done

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+for i in $3/*; do ./iyf -l $1 $2 $i ; done
+

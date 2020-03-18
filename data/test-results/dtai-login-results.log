@@ -1,0 +1,227 @@
+0.887514114379883 "../client/iyf.exe" -t test test images/ATT/s07/1.pgm images/ATT/s07/2.pgm images/ATT/s07/3.pgm images/ATT/s07/4.pgm images/ATT/s07/5.pgm
+Library InYourFaceRec successfully loaded.
+image 0: images/ATT/s07/1.pgm
+image 1: images/ATT/s07/2.pgm
+image 2: images/ATT/s07/3.pgm
+image 3: images/ATT/s07/4.pgm
+image 4: images/ATT/s07/5.pgm
+Entered Controller->Train
+UserId = 16
+Inside train constructor
+Opening trainset directory../data/TrainSet/set.txt
+s1.pgm
+s2.pgm
+s3.pgm
+s4.pgm
+s5.pgm
+s6.pgm
+How many total images to be trained 11
+How many test images are there: 6
+Image path 0: ../data/TrainSet/s1.pgm
+Image path 1: ../data/TrainSet/s2.pgm
+Image path 2: ../data/TrainSet/s3.pgm
+Image path 3: ../data/TrainSet/s4.pgm
+Image path 4: ../data/TrainSet/s5.pgm
+Image path 5: ../data/TrainSet/s6.pgm
+Image path added to faceImgArr 0 of 5
+Image path added to faceImgArr 1 of 5
+Image path added to faceImgArr 2 of 5
+Image path added to faceImgArr 3 of 5
+Image path added to faceImgArr 4 of 5
+Image Uploads Done
+Image Dimensions 92 x 112
+Allocing 40 bytes
+Done Allocing 40 bytes
+Array Building 0
+Array Built 0
+Array Building 1
+Array Built 1
+Array Building 2
+Array Built 2
+Array Building 3
+Array Built 3
+Array Building 4
+Array Built 4
+Array Building 5
+Array Built 5
+Array Building 6
+Array Built 6
+Array Building 7
+Array Built 7
+Array Building 8
+Array Built 8
+Array Building 9
+Array Built 9
+Image Arrays Built
+Eigen Array Built
+Training Area Built
+Enter train
+after calc eigen
+after decompose
+Inside exportToXML 6 11 10
+Temp File faceModelDebug.xml
+Unable to set face model for user: 16
+Result Code: 1
+
+1.0132999420166 "../client/iyf.exe" -l test test images/ATT/s07/10.pgm
+Library InYourFaceRec successfully loaded.
+what is imgfilename: images/ATT/s07/10.pgm
+Entered Controller->Login
+Username/password are incorrect
+Result Code: 1
+
+1.0235710144043 "../client/iyf.exe" -l test test images/ATT/s07/7.pgm
+Library InYourFaceRec successfully loaded.
+what is imgfilename: images/ATT/s07/7.pgm
+Entered Controller->Login
+Username/password are incorrect
+Result Code: 1
+
+1.04477214813232 "../client/iyf.exe" -l test test images/ATT/s07/8.pgm
+Library InYourFaceRec successfully loaded.
+what is imgfilename: images/ATT/s07/8.pgm
+Entered Controller->Login
+Username/password are incorrect
+Result Code: 1
+
+1.42806696891785 "../client/iyf.exe" -l test test images/ATT/s07/6.pgm
+Library InYourFaceRec successfully loaded.
+what is imgfilename: images/ATT/s07/6.pgm
+Entered Controller->Login
+UserID = 16
+
+FaceModelXML:
+<?xml version="1.0"?>
+<opencv_storage>
+<Id>6</Id>
+<nEigens>10</nEigens>
+<nTrainFaces>11</nTrainFaces
+
+Inside recognize constructor
+Inside loadFromXML
+Temp File \s5tk.1
+The least distance returned is 0.550289
+The id found closest to given image is 6
+Confidence level: 1.000000
+Return successful login
+
+Result Code: 0
+
+1.41802787780762 "../client/iyf.exe" -l test test images/ATT/s07/9.pgm
+Library InYourFaceRec successfully loaded.
+what is imgfilename: images/ATT/s07/9.pgm
+Entered Controller->Login
+UserID = 16
+
+FaceModelXML:
+<?xml version="1.0"?>
+<opencv_storage>
+<Id>6</Id>
+<nEigens>10</nEigens>
+<nTrainFaces>11</nTrainFaces
+
+Inside recognize constructor
+Inside loadFromXML
+Temp File \s7kc.
+The least distance returned is 0.000000
+The id found closest to given image is 6
+Confidence level: 1.000000
+Return successful login
+
+Result Code: 0
+
+2.00327014923096 "../client/iyf.exe" -t test test images/ATT/s07/1.pgm images/ATT/s07/2.pgm images/ATT/s07/3.pgm images/ATT/s07/4.pgm images/ATT/s07/6.pgm
+Library InYourFaceRec successfully loaded.
+image 0: images/ATT/s07/1.pgm
+image 1: images/ATT/s07/2.pgm
+image 2: images/ATT/s07/3.pgm
+image 3: images/ATT/s07/4.pgm
+image 4: images/ATT/s07/6.pgm
+Entered Controller->Train
+UserId = 16
+Inside train constructor
+Opening trainset directory../data/TrainSet/set.txt
+s1.pgm
+s2.pgm
+s3.pgm
+s4.pgm
+s5.pgm
+s6.pgm
+How many total images to be trained 11
+How many test images are there: 6
+Image path 0: ../data/TrainSet/s1.pgm
+Image path 1: ../data/TrainSet/s2.pgm
+Image path 2: ../data/TrainSet/s3.pgm
+Image path 3: ../data/TrainSet/s4.pgm
+Image path 4: ../data/TrainSet/s5.pgm
+Image path 5: ../data/TrainSet/s6.pgm
+Image path added to faceImgArr 0 of 5
+Image path added to faceImgArr 1 of 5
+Image path added to faceImgArr 2 of 5
+Image path added to faceImgArr 3 of 5
+Image path added to faceImgArr 4 of 5
+Image Uploads Done
+Image Dimensions 92 x 112
+Allocing 40 bytes
+Done Allocing 40 bytes
+Array Building 0
+Array Built 0
+Array Building 1
+Array Built 1
+Array Building 2
+Array Built 2
+Array Building 3
+Array Built 3
+Array Building 4
+Array Built 4
+Array Building 5
+Array Built 5
+Array Building 6
+Array Built 6
+Array Building 7
+Array Built 7
+Array Building 8
+Array Built 8
+Array Building 9
+Array Built 9
+Image Arrays Built
+Eigen Array Built
+Training Area Built
+Enter train
+after calc eigen
+after decompose
+Inside exportToXML 6 11 10
+Temp File faceModelDebug.xml
+Unable to set face model for user: 16
+Result Code: 1
+
+0.702549934387207 "../client/iyf.exe" -l test test images/ATT/s07/8.pgm
+Library InYourFaceRec successfully loaded.
+what is imgfilename: images/ATT/s07/8.pgm
+Entered Controller->Login
+Username/password are incorrect
+Result Code: 1
+
+1.05510592460632 "../client/iyf.exe" -l test test images/ATT/s07/10.pgm
+Library InYourFaceRec successfully loaded.
+what is imgfilename: images/ATT/s07/10.pgm
+Entered Controller->Login
+UserID = 16
+
+FaceModelXML:
+<?xml version="1.0"?>
+<opencv_storage>
+<Id>6</Id>
+<nEigens>10</nEigens>
+<nTrainFaces>11</nTrainFaces
+
+Inside recognize constructor
+Inside loadFromXML
+Temp File \s52g.
+The least distance returned is 0.547956
+The id found closest to given image is 6
+Confidence level: 1.000000
+Return successful login
+
+Result Code: 0
+

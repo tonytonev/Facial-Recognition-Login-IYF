@@ -1,0 +1,6 @@
+s1.pgm
+s2.pgm
+s3.pgm
+s4.pgm
+s5.pgm
+s6.pgm

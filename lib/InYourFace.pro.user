@@ -1,0 +1,302 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-Arguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-Executable</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">Custom Executable</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserName</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-WorkingDirectory</variable>
+  <value type="QString">$BUILDDIR</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">ProjectExplorer.CustomExecutableRunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">3</value>
+   <value key="ToolChain" type="int">2</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">APPDATA=C:\Users\Dave\AppData\Roaming</value>
+    <value type="QString">CLASSPATH=F:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\lib\mysql-connector-java-5.1.7-bin.jar;F:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\lib\servlet-api.jar;</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=DAVE-PC</value>
+    <value type="QString">COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString">CYGWIN=tty</value>
+    <value type="QString">DFSTRACINGON=FALSE</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\Dave</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\Dave\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\DAVE-PC</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">ONLINESERVICES=Online Services</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=F:\Qt\2010.01\qt\bin;F:\MinGW\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;F:\Program Files (x86)\PHP\;C:\Perl\site\bin;C:\Perl\bin;F:\Perl\site\bin;F:\Perl\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files (x86)\CyberLink\Power2Go;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\blast\bin;F:\Program Files (x86)\Apache Software Foundation\Apache2.2\bin;F:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;F:\Program Files (x86)\PHP;F:\Program Files\MySQL\MySQL Server 5.1\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;F:\OpenCV2.0\bin;F:\Qt\2010.01\bin;F:\Qt\2010.01\qt\bin;F:\Qt\2010.01\mingw\bin;f:\Program Files (x86)\CMake 2.8\bin;F:\OpenCVMingw\bin;F:\Program Files\TortoiseSVN\bin;F:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\cakephp1_3\cake\console;C:\Program Files (x86)\Haskell\bin;D:\ghc\ghc-6.12.1\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;f:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;C:\Program Files (x86)\Java\jdk1.6.0_14\bin;F:\Program Files (x86)\R\R-2.9.1\bin;</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString">PCBRAND=Pavilion</value>
+    <value type="QString">PHPRC=F:\Program Files (x86)\PHP\</value>
+    <value type="QString">PLATFORM=MCD</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 23 Stepping 10, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=170a</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMW6432=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">QTDIR=F:/Qt/2010.01/qt</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\Windows</value>
+    <value type="QString">TEMP=C:\Users\Dave\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\Dave\AppData\Local\Temp</value>
+    <value type="QString">TRACE_FORMAT_SEARCH_PATH=\\NTREL202.ntdev.corp.microsoft.com\34FB5F65-FFEB-4B61-BF0E-A6A76C450FAA\TraceFormat</value>
+    <value type="QString">USERDOMAIN=Dave-PC</value>
+    <value type="QString">USERNAME=Dave</value>
+    <value type="QString">USERPROFILE=C:\Users\Dave</value>
+    <value type="QString">VS90COMNTOOLS=F:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\Windows</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">C:/Users/Dave/Desktop/IYF/workingtest/lib/InYourFace.pro</value>
+    <value type="QString">-r</value>
+    <value type="QString">-spec</value>
+    <value type="QString">f:\Qt\2010.01\qt\mkspecs\win32-g++</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">f:/qt/2010.01/qt/bin/qmake.exe</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">C:/Users/Dave/Desktop/IYF/workingtest/lib</value>
+   <valuelist key="qmakeArgs" type="QVariantList">
+    <value type="QString">-spec</value>
+    <value type="QString">f:\Qt\2010.01\qt\mkspecs\win32-g++</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">APPDATA=C:\Users\Dave\AppData\Roaming</value>
+    <value type="QString">CLASSPATH=F:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\lib\mysql-connector-java-5.1.7-bin.jar;F:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\lib\servlet-api.jar;</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=DAVE-PC</value>
+    <value type="QString">COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString">CYGWIN=tty</value>
+    <value type="QString">DFSTRACINGON=FALSE</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\Dave</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\Dave\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\DAVE-PC</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">ONLINESERVICES=Online Services</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=F:\Qt\2010.01\qt\bin;F:\MinGW\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;F:\Program Files (x86)\PHP\;C:\Perl\site\bin;C:\Perl\bin;F:\Perl\site\bin;F:\Perl\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files (x86)\CyberLink\Power2Go;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\blast\bin;F:\Program Files (x86)\Apache Software Foundation\Apache2.2\bin;F:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;F:\Program Files (x86)\PHP;F:\Program Files\MySQL\MySQL Server 5.1\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;F:\OpenCV2.0\bin;F:\Qt\2010.01\bin;F:\Qt\2010.01\qt\bin;F:\Qt\2010.01\mingw\bin;f:\Program Files (x86)\CMake 2.8\bin;F:\OpenCVMingw\bin;F:\Program Files\TortoiseSVN\bin;F:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\cakephp1_3\cake\console;C:\Program Files (x86)\Haskell\bin;D:\ghc\ghc-6.12.1\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;f:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;C:\Program Files (x86)\Java\jdk1.6.0_14\bin;F:\Program Files (x86)\R\R-2.9.1\bin;</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString">PCBRAND=Pavilion</value>
+    <value type="QString">PHPRC=F:\Program Files (x86)\PHP\</value>
+    <value type="QString">PLATFORM=MCD</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 23 Stepping 10, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=170a</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMW6432=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">QTDIR=F:/Qt/2010.01/qt</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\Windows</value>
+    <value type="QString">TEMP=C:\Users\Dave\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\Dave\AppData\Local\Temp</value>
+    <value type="QString">TRACE_FORMAT_SEARCH_PATH=\\NTREL202.ntdev.corp.microsoft.com\34FB5F65-FFEB-4B61-BF0E-A6A76C450FAA\TraceFormat</value>
+    <value type="QString">USERDOMAIN=Dave-PC</value>
+    <value type="QString">USERNAME=Dave</value>
+    <value type="QString">USERPROFILE=C:\Users\Dave</value>
+    <value type="QString">VS90COMNTOOLS=F:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\Windows</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">F:/MinGW/bin/mingw32-make.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">C:/Users/Dave/Desktop/IYF/workingtest/lib</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">APPDATA=C:\Users\Dave\AppData\Roaming</value>
+    <value type="QString">CLASSPATH=F:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\lib\mysql-connector-java-5.1.7-bin.jar;F:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\lib\servlet-api.jar;</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=DAVE-PC</value>
+    <value type="QString">COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString">CYGWIN=tty</value>
+    <value type="QString">DFSTRACINGON=FALSE</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\Dave</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\Dave\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\DAVE-PC</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">ONLINESERVICES=Online Services</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=F:\Qt\2010.01\qt\bin;F:\MinGW\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;F:\Program Files (x86)\PHP\;C:\Perl\site\bin;C:\Perl\bin;F:\Perl\site\bin;F:\Perl\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files (x86)\CyberLink\Power2Go;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\blast\bin;F:\Program Files (x86)\Apache Software Foundation\Apache2.2\bin;F:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;F:\Program Files (x86)\PHP;F:\Program Files\MySQL\MySQL Server 5.1\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;F:\OpenCV2.0\bin;F:\Qt\2010.01\bin;F:\Qt\2010.01\qt\bin;F:\Qt\2010.01\mingw\bin;f:\Program Files (x86)\CMake 2.8\bin;F:\OpenCVMingw\bin;F:\Program Files\TortoiseSVN\bin;F:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\cakephp1_3\cake\console;C:\Program Files (x86)\Haskell\bin;D:\ghc\ghc-6.12.1\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;f:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;C:\Program Files (x86)\Java\jdk1.6.0_14\bin;F:\Program Files (x86)\R\R-2.9.1\bin;</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString">PCBRAND=Pavilion</value>
+    <value type="QString">PHPRC=F:\Program Files (x86)\PHP\</value>
+    <value type="QString">PLATFORM=MCD</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 23 Stepping 10, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=170a</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMW6432=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">QTDIR=F:/Qt/2010.01/qt</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\Windows</value>
+    <value type="QString">TEMP=C:\Users\Dave\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\Dave\AppData\Local\Temp</value>
+    <value type="QString">TRACE_FORMAT_SEARCH_PATH=\\NTREL202.ntdev.corp.microsoft.com\34FB5F65-FFEB-4B61-BF0E-A6A76C450FAA\TraceFormat</value>
+    <value type="QString">USERDOMAIN=Dave-PC</value>
+    <value type="QString">USERNAME=Dave</value>
+    <value type="QString">USERPROFILE=C:\Users\Dave</value>
+    <value type="QString">VS90COMNTOOLS=F:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\Windows</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">F:/MinGW/bin/mingw32-make.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">C:/Users/Dave/Desktop/IYF/workingtest/lib</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>
